@@ -1,4 +1,28 @@
 
+# EM CONSTRUÇÃO E CIENTE QUE PRECISA DE MELHORIAS,  POIS ESTE DESAFIO FOI FEITO EM APENAS 2 DIAS!
+
+
+# ]]]]]]]]]]]]]]]]]]]]]]
+# ]]]]]]]]]]]]]
+# ]]]]]]]]]]]
+
+
+
+# ]]]]]]]]]]]]]]]]]]]]]]
+# ]]]]]]]]]]]]]
+# ]]]]]]]]]]]
+
+# ]]]]]]]]]]]]]]]]]]]]]]
+# ]]]]]]]]]]]]]
+# ]]]]]]]]]]]
+
+
+
+
+
+
+
+
 LINK DO CONTROLE DE BUGS E MELHORIAS
 https://docs.google.com/spreadsheets/d/1SQtNpB0O3U4WB3NRqc28vN9CuOa0cOOG/edit?usp=sharing&ouid=102174323878491999909&rtpof=true&sd=true
 
